@@ -1,5 +1,5 @@
 # Get Movie Info
  Text-based information retrieval from Imdb movie database, using API
-![Screen Shot](https://user-images.githubusercontent.com/47422637/116928688-63086d80-ac2b-11eb-8ea7-38885030d3d3.png)
-![Screen Shot](https://user-images.githubusercontent.com/47422637/116928699-67348b00-ac2b-11eb-9fae-4fe2e30606b6.png)
-![Screen Shot](https://user-images.githubusercontent.com/47422637/116928789-859a8680-ac2b-11eb-8327-1b45d5d33a4c.png)
+<img width="1097" alt="Screen Shot 2021-05-04 at 4 47 55 PM" src="https://user-images.githubusercontent.com/47422637/117067989-b399cc80-acf8-11eb-8711-d03fefa9128c.png">
+<img width="1093" alt="Screen Shot 2021-05-04 at 4 48 12 PM" src="https://user-images.githubusercontent.com/47422637/117067993-b4caf980-acf8-11eb-9010-f7425d389b65.png">
+<img width="1095" alt="Screen Shot 2021-05-04 at 4 48 29 PM" src="https://user-images.githubusercontent.com/47422637/117068005-b85e8080-acf8-11eb-9dcd-197d99e6561b.png">
