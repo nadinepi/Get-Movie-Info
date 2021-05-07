@@ -1,6 +1,6 @@
 import sys
 
-savedlist = ''
+savedlist = 'Empty'
 
 
 def search():
@@ -107,7 +107,7 @@ def search():
 
 def erase():
     global savedlist
-    savedlist = ""
+    savedlist = "Empty"
     nxt()
 
 
